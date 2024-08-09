@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Verification for FluentForm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-27 15:19+0000\n"
+"PO-Revision-Date: 2024-08-07 18:31+0000\n"
+"Last-Translator: Martin Neumann\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: webgurus-email-verify"
+
+#: webgurus-email-verify.php:292 webgurus-email-verify.php:296
+msgid ""
+"An error occured while validating the email. Double check the spelling and "
+"submit."
+msgstr "Ocorreu um erro ao validar o e-mail. Verifique se é correto e avance."
+
+#: admin.php:130
+msgid "Comment Forms"
+msgstr "Formulários de comentários"
+
+#: webgurus-email-verify.php:119 webgurus-email-verify.php:189
+#| msgid "Disposable emails not allowed"
+msgid "Disposable emails not allowed."
+msgstr "E-mails descartáveis não são permitidos."
+
+#: webgurus-email-verify.php:123
+msgid "Email correct!"
+msgstr "Email correto!"
+
+#. %s: Email Address
+#: webgurus-email-verify.php:103 webgurus-email-verify.php:184
+#, php-format
+msgid "Email not valid. Did you mean %s?"
+msgstr "E-mail não é válido. Você quis dizer %s?"
+
+#: admin.php:124
+msgid "Email Verification"
+msgstr "Verificação de e-mail"
+
+#: admin.php:129
+msgid "Enable Verification for following components"
+msgstr "Ativar a verificação para os seguintes componentes"
+
+#: admin.php:105
+msgid "Find Other Plugins"
+msgstr "Encontrar outros plug-ins"
+
+#. Author URI of the plugin
+msgid "https://www.webgurus.net"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.webgurus.net/wordpress/plugins/email-verification"
+msgstr ""
+
+#: admin.php:107
+msgid ""
+"If you want to stay up to date about plugin updates and news around "
+"WordPress and Marketing Automation, sign up for our newsletter."
+msgstr ""
+"Se quiser se manter informado sobre atualizações de plug-ins e notícias "
+"relacionadas ao WordPress e à automação de marketing, inscreva-se em nosso "
+"boletim informativo."
+
+#: webgurus-email-verify.php:304
+msgid "Keep typing"
+msgstr "Continue digitando"
+
+#. Author of the plugin
+msgid "Martin Neumann"
+msgstr ""
+
+#: admin.php:142
+msgid "Not Installed"
+msgstr "Não instalado"
+
+#: webgurus-email-verify.php:301
+msgid "Not yet a valid email"
+msgstr "Ainda não é um e-mail válido"
+
+#: admin.php:106
+msgid "Read the Blog"
+msgstr "Ler o blog"
+
+#: admin.php:109
+msgid "Sign up Now"
+msgstr "Inscreva-se agora"
+
+#: webgurus-email-verify.php:109
+msgid ""
+"This email address can't be verified for correctness. Double check the "
+"spelling before submitting."
+msgstr ""
+"Esse email não pode ser verificado se é correto ou não. Confere se é correto "
+"e continue."
+
+#: webgurus-email-verify.php:98 webgurus-email-verify.php:181
+#| msgid "This is not a valid email"
+msgid "This is not a valid email."
+msgstr "Isso não é um email válido."
+
+#. Description of the plugin
+#| msgid ""
+#| "Verifies the email submitted at a FluentForm form using the debounce.io "
+#| "API."
+msgid ""
+"Verifies the email submitted at various WordPress forms using the debounce."
+"io API."
+msgstr ""
+"Verifica o e-mail enviado em vários formulários do WordPress usando o "
+"debounce.io API."
+
+#: webgurus-email-verify.php:114
+#| msgid ""
+#| "We can't guarantee perfect delivery to role based emails, but feel free "
+#| "to use it."
+msgid ""
+"We can't guarantee perfect delivery to role based emails, but use it if "
+"needed."
+msgstr ""
+"Não podemos garantir a entrega perfeita para e-mails baseado em função, mas "
+"é permitido usar."
+
+#. Name of the plugin
+msgid "Webgurus Email Verification"
+msgstr "Webgurus Verificação de e-mail"
+
+#: admin.php:104
+msgid ""
+"Welcome to WebGurus WordPress plugins. We are trying to make your life on "
+"WordPress more productive."
+msgstr ""
+"Bem-vindo aos plug-ins do WebGurus para WordPress. Estamos procurando tornar "
+"sua vida no WordPress mais produtiva."
+
+#: admin.php:127
+#, php-format
+msgid ""
+"You need to sign up first for your account at %s. Then you need to create an "
+"API key and paste it here."
+msgstr ""
+"Primeiro, você precisa cadastrar sua conta em %s. Em seguida, você precisa "
+"criar uma chave de API e colá-la aqui."
+
+#: admin.php:128
+msgid "Your Debounce.io API Key"
+msgstr "Sua chave da API Debounce.io"

@@ -1,0 +1,134 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Verification for FluentForm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-07 18:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: webgurus-email-verify"
+
+#: webgurus-email-verify.php:292 webgurus-email-verify.php:296
+msgid ""
+"An error occured while validating the email. Double check the spelling and "
+"submit."
+msgstr ""
+
+#: admin.php:130
+msgid "Comment Forms"
+msgstr ""
+
+#: webgurus-email-verify.php:119 webgurus-email-verify.php:189
+msgid "Disposable emails not allowed."
+msgstr ""
+
+#: webgurus-email-verify.php:123
+msgid "Email correct!"
+msgstr ""
+
+#. %s: Email Address
+#: webgurus-email-verify.php:103 webgurus-email-verify.php:184
+#, php-format
+msgid "Email not valid. Did you mean %s?"
+msgstr ""
+
+#: admin.php:124
+msgid "Email Verification"
+msgstr ""
+
+#: admin.php:129
+msgid "Enable Verification for following components"
+msgstr ""
+
+#: admin.php:105
+msgid "Find Other Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.webgurus.net"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.webgurus.net/wordpress/plugins/email-verification"
+msgstr ""
+
+#: admin.php:107
+msgid ""
+"If you want to stay up to date about plugin updates and news around "
+"WordPress and Marketing Automation, sign up for our newsletter."
+msgstr ""
+
+#: webgurus-email-verify.php:304
+msgid "Keep typing"
+msgstr ""
+
+#. Author of the plugin
+msgid "Martin Neumann"
+msgstr ""
+
+#: admin.php:142
+msgid "Not Installed"
+msgstr ""
+
+#: webgurus-email-verify.php:301
+msgid "Not yet a valid email"
+msgstr ""
+
+#: admin.php:106
+msgid "Read the Blog"
+msgstr ""
+
+#: admin.php:109
+msgid "Sign up Now"
+msgstr ""
+
+#: webgurus-email-verify.php:109
+msgid ""
+"This email address can't be verified for correctness. Double check the "
+"spelling before submitting."
+msgstr ""
+
+#: webgurus-email-verify.php:98 webgurus-email-verify.php:181
+msgid "This is not a valid email."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Verifies the email submitted at various WordPress forms using the debounce."
+"io API."
+msgstr ""
+
+#: webgurus-email-verify.php:114
+msgid ""
+"We can't guarantee perfect delivery to role based emails, but use it if "
+"needed."
+msgstr ""
+
+#. Name of the plugin
+msgid "Webgurus Email Verification"
+msgstr ""
+
+#: admin.php:104
+msgid ""
+"Welcome to WebGurus WordPress plugins. We are trying to make your life on "
+"WordPress more productive."
+msgstr ""
+
+#: admin.php:127
+#, php-format
+msgid ""
+"You need to sign up first for your account at %s. Then you need to create an "
+"API key and paste it here."
+msgstr ""
+
+#: admin.php:128
+msgid "Your Debounce.io API Key"
+msgstr ""
